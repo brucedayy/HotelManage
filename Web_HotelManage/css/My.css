@@ -1,0 +1,17 @@
+﻿@import url("Base.css");
+.div_All
+{
+	width:100%;
+	padding:0;
+	margin:0;
+}
+.Body_Title
+{
+    font-size: 13px;
+    line-height: 28px;
+    text-indent: 10px;
+    font-weight:bolder;
+    color:#ffffff;
+    background-color: #51bde6;
+}
+.item{ line-height:25px;}

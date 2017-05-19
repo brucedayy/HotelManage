@@ -1,0 +1,56 @@
+﻿body {font:12px Helvetica, Arial, sans-serif;  margin:0; padding:0; word-wrap:break-word; word-break:break-all; }
+A:link
+{
+    color: #000000;
+    text-decoration: none;
+}
+A:visited{color:#000000; text-decoration: none;}
+A:active{color:#000000; text-decoration: none;}
+A:hover{color: #000000;text-decoration: underline;}
+ul, li { list-style:none; }
+img { border:none; vertical-align:middle;}
+/* html { overflow:-moz-scrollbars-vertical; } 在Firefox下始终显示滚动条*/
+.Error
+{
+    margin: 15% auto;
+    font-weight: bolder;
+    width:500px;
+    padding:10px;
+}
+.ErrorNote
+{
+    font-size: 15px;
+    color: #FFFFFF;
+    margin:5px;
+    line-height:30px;
+    text-indent:20px;
+    background-color: #F4706C;
+}
+.ProImg
+{
+    margin:5px;
+    height:150px;
+    width:130px;
+}
+.TopBack
+{
+   /* background:url("../image/TopBack.jpg") repeat-x;*/
+    background-color: #969696;
+    height:50px;
+}
+.loginTXT
+{
+    border: 1px solid #800000;
+    height:15px;
+}
+.TopMes
+{
+	 float:left;
+    color:#ffffff;
+    margin:30px 0 0 20px;
+    font-weight:bolder;
+    float:right;
+    padding-right:10px;
+}
+
+.TopTitle{height:50px; float:left; width:500px; padding-left:20px; line-height:50px; font-size:30px;  text-align:left; font-weight:bold; color:#fff;}
